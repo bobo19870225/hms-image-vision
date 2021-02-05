@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hms-image-vision.iml" filepath="$PROJECT_DIR$/.idea/modules/hms-image-vision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hms-image-vision.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hms-image-vision.app.iml" />
+    </modules>
+  </component>
+</project>

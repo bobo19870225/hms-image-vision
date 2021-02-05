@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:image-vision-fallback:1.0.3.301@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2f7f850d81b60abf89b3cca6fbfdd2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2f7f850d81b60abf89b3cca6fbfdd2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2f7f850d81b60abf89b3cca6fbfdd2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/image-vision-fallback/1.0.3.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/image-vision-fallback-1.0.3.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

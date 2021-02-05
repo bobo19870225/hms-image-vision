@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.android.hms:security-intent:1.1.5.301@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bc3b5e0ae4e55a797b33d00bdefedcb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bc3b5e0ae4e55a797b33d00bdefedcb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bc3b5e0ae4e55a797b33d00bdefedcb/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.android.hms/security-intent/1.1.5.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/security-intent-1.1.5.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
